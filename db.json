@@ -4,6 +4,11 @@
         {"2" : "Walk along the Great Wall of China"},
         {"3" : "Explore Petra"},
         {"4" : "Visit the Colosseum"},
-        {"5" : "Walk to Chichen Itza"}
+        {"5" : "Walk to Chichen Itza"},
+        {"6" : "Trek to Machu Picchu"},
+        {"7" : "Discover the Taj Mahal"},
+        {"8" : "Hike to Christ the Redeemer"},
+        {"9" : "Be intrigued by Stonehenge"},
+        {"10" : "Discover the Amazon Rainforest and River"}
     ]
 }
