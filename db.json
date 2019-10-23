@@ -4,9 +4,6 @@
         {"2" : "Walk along the Great Wall of China"},
         {"3" : "Explore Petra"},
         {"4" : "Visit the Colosseum"},
-        {"5" : "Walk to Chichen Itza"},
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+        {"5" : "Walk to Chichen Itza"}
+    ]
 }
